@@ -1,7 +1,7 @@
 name: thembrehms
 favicon: null
 layout_spectrum: 0.6086877803318202
-typography_spectrum: 0.49755967245437205
+typography_spectrum: 0.50167
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#142b75'
+    - '#51473e'
+    - '#cbdba8'
+    - '#a1715b'
+    - '#97a999'
   brandStrength: 0.0578922766726464
   lightness: 0.9964323884341866
   saturation: 0.7713522997219115
