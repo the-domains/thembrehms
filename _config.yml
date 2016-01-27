@@ -1,29 +1,40 @@
-name: thembrehms
 favicon: null
-layout_spectrum: 0.6086877803318202
-typography_spectrum: 0.50167
-title: Them Brehms and their doings
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: thembrehms
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#142b75'
-    - '#51473e'
-    - '#cbdba8'
-    - '#a1715b'
-    - '#97a999'
-  brandStrength: 0.0578922766726464
-  lightness: 0.9964323884341866
-  saturation: 0.7713522997219115
-  rhythmicContrast: 0.10238760989159346
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8673835
+  brandStrength: 0.0578922766726464
+  lightness: 0.7365592
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  rhythmicContrast: 0.1023876
+typography_spectrum: 0.497559672454372
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.6086877803318202
+analytics:
+  twitter: null
+  google: null
+  facebook: null
