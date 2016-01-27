@@ -1,41 +1,41 @@
-name: thembrehms
-favicon: null
-layout_spectrum: 0.40568
-typography_spectrum: 0.62277
+title: What Them Brehms Are Up To.
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: What Them Brehms Are Up To.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.6075269
+  lightness: 0.25
+  brandStrength: 0
   brandColors:
     - '#000509'
     - '#d5dadd'
     - '#00acd2'
     - '#ffb100'
     - '#3b6087'
-  brandStrength: 0.75
-  lightness: 0.25
-  saturation: 0.875
   rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: thembrehms
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2150538
+layout_spectrum: 0.40568
