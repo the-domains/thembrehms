@@ -1,9 +1,7 @@
-favicon: null
 name: thembrehms
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.6086877803318202
+typography_spectrum: 0.497559672454372
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8673835
-  brandStrength: 0.0578922766726464
-  lightness: 0.7365592
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  brandStrength: 0.0578922766726464
+  lightness: 0.7365592
+  saturation: 0.8673835
   rhythmicContrast: 0.1023876
-typography_spectrum: 0.497559672454372
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.6086877803318202
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
